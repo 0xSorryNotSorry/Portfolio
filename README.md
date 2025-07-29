@@ -12,9 +12,9 @@
 
 ##  About Me
 
-I’m a blockchain security researcher focused on identifying complex vulnerabilities in smart contracts, DeFi systems, and protocol architectures. I’ve reviewed large-scale codebases, and contributed to critical protocol audits in the Web3 space. 
+The same curiosity that brought you to this page is what led me deep into the world of smart contracts and DeFi. What started as pure interest turned into a full time obsession with spotting vulnerabilities in protocols, breaking assumptions in code, and strengthening the Web3 ecosystem from the inside out.
 
-My background consists of being a maritime professional. My interest and passion have brought you to the page you are looking at now. I have the ability to learn and grow, no matter the challenge.
+I’ve audited large, complex codebases, contributed to mission critical protocol reviews, and built a reputation for finding what others miss. Before this, I navigated real world oceans as a ship captain, now I chart attack surfaces with the same discipline and precision.
 
 - Deep expertise in EVM-based audits
 
