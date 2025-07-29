@@ -35,7 +35,6 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 ---
 ## Notable Experience
 
-
 ### Contests
 
 | Project                             | Platform      | Date        | Rank  | Focus                                 |
@@ -65,6 +64,8 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 
 | Project | Firm | Date | Focus | Report |
 |:--------|:-----|:-----|:------|:-------|
+| Syndicate Protocol | Oak Security | Jul 2025 | Onchain Sequencer | |
+| Superset Finance | Hashlock | Jul 2025 | LayerZero OApp and OFT Factory | |
 | Size Credit | Hashlock | Jun 2025 | Fixed-rate lending marketplace | |
 | Indx Finance | Hashlock | Jun 2025 | Fully collateralized on-chain token CTFs | |
 | LiveArt | Hashlock | Jun 2025 | RWA Art NFT trading | |
@@ -83,7 +84,6 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 | Minty | Private | Apr 2023 | Onchain Collectibles | |
 | TopDex | Private | Mar 2023 | AMM with Exotic Fee Structures | |
 | Tropyverse | Private | Mar 2023 | Metaverse Project | |
-
 
 ---
 
