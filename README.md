@@ -64,6 +64,7 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 
 | Project | Firm | Date | Focus | Report |
 |:--------|:-----|:-----|:------|:-------|
+| Spectral Finance – Agent Images | Zenith | Jul 2025 | Onchain Agents | |
 | Syndicate Protocol | Oak Security | Jul 2025 | Onchain Sequencer | |
 | Superset Finance | Hashlock | Jul 2025 | LayerZero OApp and OFT Factory | |
 | Size Credit | Hashlock | Jun 2025 | Fixed-rate lending marketplace | |
