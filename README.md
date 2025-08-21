@@ -35,6 +35,34 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 ---
 ## Notable Experience
 
+### Private / Other Engagements
+
+| Project | Firm | Date | Focus | Report |
+|:--------|:-----|:-----|:------|:-------|
+| Syndicate Protocol | Oak Security | Aug 2025 | Onchain Sequencer - Infrastructure | |
+| Spectral Finance – Agent Images | Zenith | Jul 2025 | Onchain Agents | |
+| Syndicate Protocol | Oak Security | Jul 2025 | Onchain Sequencer - Infrastructure | |
+| Superset Finance | Hashlock | Jul 2025 | LayerZero OApp and OFT Factory | |
+| Size Credit | Hashlock | Jun 2025 | Fixed-rate lending marketplace | |
+| Indx Finance | Hashlock | Jun 2025 | Fully collateralized on-chain token CTFs | |
+| LiveArt | Hashlock | Jun 2025 | RWA Art NFT trading | |
+| CruTrade | Hashlock | Jun 2025 | Decentralized trading of RWAs, focused on vinery | |
+| SushiSwap | Hashlock | Jun 2025 | AMM Contracts on Kadena Network | |
+| Moria Protocol | Hashlock | Jun 2025 | DeFi on Bitcoin Cash | |
+| Spectral, On-Chain Agents | Zenith | May 2025 | Onchain Agents | |
+| Molecula Carbon Solution | Hashlock | May 2025 | Crosschain Yielding in Stables | |
+| Wal8 | Hashlock | Apr 2025 | Socialized Collectibles and Branding | |
+| Spectral, Profit Distribution | Zenith | Apr 2025 | Profit and reward distribution | [1](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/recDarNYWNEAFfiUK/fldzYl5rFcQW9s1pI/attdyhYcc19RProc3) |
+| HyperSwell, LayerZero Integration | Zenith | Mar 2025 | LayerZero Integration | [1](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/recBE6owRJjgKSYMK/fldzYl5rFcQW9s1pI/attsJg7fKcjya7c3c) |
+| Spectral, On-chain Agents | Zenith | Feb 2025 | Name Service, AI Agents | [1](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/rec1YSN3DNK3JqV2r/fldzYl5rFcQW9s1pI/attbngvMmPm8UdU23), [2](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/rec1YSN3DNK3JqV2r/fldzYl5rFcQW9s1pI/attf17BNI51qZKffa), [3](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/rec1YSN3DNK3JqV2r/fldzYl5rFcQW9s1pI/attGbCQsAVz9EpkXJ) |
+| Holograph, GAINS Token | Zenith | Jan 2025 | Token Management | |
+| Pear Protocol | Shieldify Sec | Jan 2024 | Decentralized Trading over GMX | [1](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PearLabs-V0.9-Security-Review.pdf) |
+| Xaya (Democrit Crit) | Oak Security | May 2023 | Onchain Game | |
+| Minty | Private | Apr 2023 | Onchain Collectibles | |
+| TopDex | Private | Mar 2023 | AMM with Exotic Fee Structures | |
+| Tropyverse | Private | Mar 2023 | Metaverse Project | |
+
+
 ### Contests
 
 | Project                             | Platform      | Date        | Rank  | Focus                                 |
@@ -60,31 +88,6 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 | bunker.finance                      | Code4rena     | May 2022    | #4    | Compound Fork                          |
 | Duality Focus                       | Code4rena     | Apr 2022    | #9    | Money Market                           |
 
-### Private / Other Engagements
-
-| Project | Firm | Date | Focus | Report |
-|:--------|:-----|:-----|:------|:-------|
-| Spectral Finance – Agent Images | Zenith | Jul 2025 | Onchain Agents | |
-| Syndicate Protocol | Oak Security | Jul 2025 | Onchain Sequencer | |
-| Superset Finance | Hashlock | Jul 2025 | LayerZero OApp and OFT Factory | |
-| Size Credit | Hashlock | Jun 2025 | Fixed-rate lending marketplace | |
-| Indx Finance | Hashlock | Jun 2025 | Fully collateralized on-chain token CTFs | |
-| LiveArt | Hashlock | Jun 2025 | RWA Art NFT trading | |
-| CruTrade | Hashlock | Jun 2025 | Decentralized trading of RWAs, focused on vinery | |
-| SushiSwap | Hashlock | Jun 2025 | AMM Contracts on Kadena Network | |
-| Moria Protocol | Hashlock | Jun 2025 | DeFi on Bitcoin Cash | |
-| Spectral, On-Chain Agents | Zenith | May 2025 | Onchain Agents | |
-| Molecula Carbon Solution | Hashlock | May 2025 | Crosschain Yielding in Stables | |
-| Wal8 | Hashlock | Apr 2025 | Socialized Collectibles and Branding | |
-| Spectral, Profit Distribution | Zenith | Apr 2025 | Profit and reward distribution | [1](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/recDarNYWNEAFfiUK/fldzYl5rFcQW9s1pI/attdyhYcc19RProc3) |
-| HyperSwell, LayerZero Integration | Zenith | Mar 2025 | LayerZero Integration | [1](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/recBE6owRJjgKSYMK/fldzYl5rFcQW9s1pI/attsJg7fKcjya7c3c) |
-| Spectral, On-chain Agents | Zenith | Feb 2025 | Name Service, AI Agents | [1](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/rec1YSN3DNK3JqV2r/fldzYl5rFcQW9s1pI/attbngvMmPm8UdU23), [2](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/rec1YSN3DNK3JqV2r/fldzYl5rFcQW9s1pI/attf17BNI51qZKffa), [3](https://airtable.com/appkYI70J27VIYMFU/shrgoYXcay5D6RHnH/tbltq573yZrsBemb6/viwiN5Dn9KBnYSllr/rec1YSN3DNK3JqV2r/fldzYl5rFcQW9s1pI/attGbCQsAVz9EpkXJ) |
-| Holograph, GAINS Token | Zenith | Jan 2025 | Token Management | |
-| Pear Protocol | Shieldify Sec | Jan 2024 | Decentralized Trading over GMX | [1](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PearLabs-V0.9-Security-Review.pdf) |
-| Xaya (Democrit Crit) | Oak Security | May 2023 | Onchain Game | |
-| Minty | Private | Apr 2023 | Onchain Collectibles | |
-| TopDex | Private | Mar 2023 | AMM with Exotic Fee Structures | |
-| Tropyverse | Private | Mar 2023 | Metaverse Project | |
 
 ---
 
