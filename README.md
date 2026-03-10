@@ -39,6 +39,12 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 
 | Project | Firm | Date | Focus | Report |
 |:--------|:-----|:-----|:------|:-------|
+| Structured maxBTC | Oak Security | Dec 2025 | EVM Oracle Contracts | |
+| Structured maxBTC | Oak Security | Dec 2025 | EVM Minting Contracts | |
+| Mantra Finance | Oak Security | Dec 2025 | Fluxtra Vaults Contracts | |
+| Mantra Finance | Oak Security | Nov 2025 | Yield Distribution Contracts | |
+| Mantra Finance | Oak Security | Nov 2025 | RWA Token Primary Sale Contracts | |
+| Thema Protocol | Oak Security | Oct 2025 | Token Index | |
 | Syndicate Protocol | Oak Security | Aug 2025 | Onchain Sequencer - Infrastructure | |
 | Spectral Finance – Agent Images | Zenith | Jul 2025 | Onchain Agents | |
 | Syndicate Protocol | Oak Security | Jul 2025 | Onchain Sequencer - Infrastructure | |
