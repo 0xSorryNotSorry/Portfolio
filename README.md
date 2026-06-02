@@ -39,6 +39,7 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 
 | Project | Firm | Date | Focus | Report |
 |:--------|:-----|:-----|:------|:-------|
+| Tezoro | Oak Security | Apr 2026 | Defi Yield Aggregator | |
 | Structured maxBTC | Oak Security | Dec 2025 | EVM Oracle Contracts | |
 | Structured maxBTC | Oak Security | Dec 2025 | EVM Minting Contracts | |
 | Mantra Finance | Oak Security | Dec 2025 | Fluxtra Vaults Contracts | |
