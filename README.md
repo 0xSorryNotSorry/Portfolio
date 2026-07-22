@@ -4,9 +4,6 @@
 
 <h3 align="center">
   Smart Contract Auditor <br>
-  Researcher @
-  <a href="https://www.oaksecurity.io/">Oak</a>,
-  <a href="https://www.zenith.security/">Zenith</a> ||
   Judge @ <a href="https://cantina.xyz/">Cantina</a> ||
   Former Judge @ <a href="https://code4rena.com">Code4rena</a>
 </h3>
@@ -22,10 +19,10 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 - Judge for audit competitions at **Code4rena** and **Cantina**
 
 - Contributor to top audit firms:
-  - <img src="https://code4rena.com/images/c4-logo-icon.svg" alt="Code4rena Logo" height="20" style="vertical-align: middle;"/> - Judge at [Code4rena](https://code4rena.com)
-  - <img src="https://cdn.prod.website-files.com/6741f9996a3c2c0fa84c2df0/678fc5b715d04efdf209cf7a_pictogram-brand-white.svg" alt="Cantina Logo" height="20" style="vertical-align: middle;"/> - Judge at [Cantina](https://cantina.xyz/)
-  - <img src="https://cdn.prod.website-files.com/678a0c632f0d4c0da9dc074d/678a0c632f0d4c0da9dc07cb_Logo.svg" alt="Zenith Logo" height="20" style="vertical-align: middle;"/> - Researcher at [Zenith](https://www.zenith.security/)
   - <img src="https://cdn.prod.website-files.com/645954cb638e932c6cd1949a/64596abc1b8dbb2b2e122098_oak-logo-white.svg" alt="Oak Logo" height="20" style="vertical-align: middle;"/> - Researcher at [Oak](https://www.oaksecurity.io/)
+  - <img src="https://cdn.prod.website-files.com/678a0c632f0d4c0da9dc074d/678a0c632f0d4c0da9dc07cb_Logo.svg" alt="Zenith Logo" height="20" style="vertical-align: middle;"/> - Researcher at [Zenith](https://www.zenith.security/)
+  - <img src="https://cdn.prod.website-files.com/6741f9996a3c2c0fa84c2df0/678fc5b715d04efdf209cf7a_pictogram-brand-white.svg" alt="Cantina Logo" height="20" style="vertical-align: middle;"/> - Judge at [Cantina](https://cantina.xyz/)
+  - <img src="https://code4rena.com/images/c4-logo-icon.svg" alt="Code4rena Logo" height="20" style="vertical-align: middle;"/> - Former Judge at [Code4rena](https://code4rena.com)
 
 <br>
 
