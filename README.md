@@ -3,9 +3,7 @@
 </p>
 
 <h3 align="center">
-  Smart Contract Auditor <br>
-  Judge @ <a href="https://cantina.xyz/">Cantina</a> ||
-  Former Judge @ <a href="https://code4rena.com">Code4rena</a>
+  Security Researcher
 </h3>
 
 ##  About Me
@@ -16,7 +14,7 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 
 - Deep expertise in EVM-based audits
 
-- Judge for audit competitions at **Code4rena** and **Cantina**
+- Former Judge for audit competitions at **Code4rena** and **Cantina**
 
 - Contributor to top audit firms:
   - <img src="https://cdn.prod.website-files.com/645954cb638e932c6cd1949a/64596abc1b8dbb2b2e122098_oak-logo-white.svg" alt="Oak Logo" height="20" style="vertical-align: middle;"/> - Researcher at [Oak](https://www.oaksecurity.io/)
