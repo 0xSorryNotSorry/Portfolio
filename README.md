@@ -4,10 +4,11 @@
 
 <h3 align="center">
   Smart Contract Auditor <br>
-  Judge @ <a href="https://code4rena.com">Code4rena</a> · <a href="https://cantina.xyz/">Cantina</a> ||
   Researcher @
-  <a href="https://www.zenith.security/">Zenith</a>,
-  <a href="https://www.oaksecurity.io/">Oak</a>
+  <a href="https://www.oaksecurity.io/">Oak</a>,
+  <a href="https://www.zenith.security/">Zenith</a> ||
+  Judge @ <a href="https://cantina.xyz/">Cantina</a> ||
+  Former Judge @ <a href="https://code4rena.com">Code4rena</a>
 </h3>
 
 ##  About Me
