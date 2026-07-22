@@ -39,12 +39,24 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 
 | Project | Firm | Date | Focus | Report |
 |:--------|:-----|:-----|:------|:-------|
+| NAWA | Oak Security | Jul 2026 | Ethereum Vault Contracts (Solidity) | |
+| Chainlink ACE | Sigma Prime | Jun 2026 | Automated Compliance Engine, onchain review (Solidity) | |
+| Chainlink CCIP | Sigma Prime | Jun 2026 | Cross-chain interoperability (Canton / Daml) | |
+| Chainlink CCIP | Sigma Prime | May 2026 | Cross-chain interoperability (Canton / Daml) | |
+| Chainlink CCIP | Sigma Prime | Apr 2026 | Cross-chain interoperability (Canton / Daml) | |
 | Tezoro | Oak Security | Apr 2026 | Defi Yield Aggregator | |
+| Chainlink CCIP | Sigma Prime | Mar 2026 | Cross-chain interoperability (Canton / Daml) | |
+| Chainlink CCIP | Sigma Prime | Feb 2026 | Cross-chain interoperability, offchain (Golang) | |
+| Igra Network | Sigma Prime | Jan 2026 | Modified EIP-4788 beacon-root contract (Solidity) | |
+| Chainlink Maple Syrup | Sigma Prime | Dec 2025 | Institutional lending / yield (Solidity) | |
+| Tea | Sigma Prime | Dec 2025 | Open-source rewards protocol (Solidity, Golang) | |
 | Structured maxBTC | Oak Security | Dec 2025 | EVM Oracle Contracts | |
 | Structured maxBTC | Oak Security | Dec 2025 | EVM Minting Contracts | |
 | Mantra Finance | Oak Security | Dec 2025 | Fluxtra Vaults Contracts | |
+| ETHGas | Sigma Prime | Nov 2025 | Gas markets and preconfirmations (Solidity, Vyper) | |
 | Mantra Finance | Oak Security | Nov 2025 | Yield Distribution Contracts | |
 | Mantra Finance | Oak Security | Nov 2025 | RWA Token Primary Sale Contracts | |
+| Term Finance | Sigma Prime | Oct 2025 | Fixed-rate lending protocol (Solidity) | |
 | Thema Protocol | Oak Security | Oct 2025 | Token Index | |
 | Syndicate Protocol | Oak Security | Aug 2025 | Onchain Sequencer - Infrastructure | |
 | Spectral Finance – Agent Images | Zenith | Jul 2025 | Onchain Agents | |
