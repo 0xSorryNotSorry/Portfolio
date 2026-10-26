@@ -16,6 +16,8 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 
 - Former Judge for audit competitions at **Code4rena** and **Cantina**
 
+- Bug bounty hunter on [HackenProof](https://hackenproof.com/hackers/sorryNotsorry)
+
 - Contributor to top audit firms:
   - <img src="https://cdn.prod.website-files.com/645954cb638e932c6cd1949a/64596abc1b8dbb2b2e122098_oak-logo-white.svg" alt="Oak Logo" height="20" style="vertical-align: middle;"/> - Researcher at [Oak](https://www.oaksecurity.io/)
   - <img src="https://cdn.prod.website-files.com/678a0c632f0d4c0da9dc074d/678a0c632f0d4c0da9dc07cb_Logo.svg" alt="Zenith Logo" height="20" style="vertical-align: middle;"/> - Researcher at [Zenith](https://www.zenith.security/)
@@ -35,6 +37,7 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 
 | Project | Firm | Date | Focus | Report |
 |:--------|:-----|:-----|:------|:-------|
+| Chainlink CCIP Solana v2.0 | Sigma Prime | Sep 2026 | Cross-chain interoperability (Solana / Rust) | |
 | NAWA | Oak Security | Jul 2026 | Ethereum Vault Contracts (Solidity) | |
 | Chainlink ACE | Sigma Prime | Jun 2026 | Automated Compliance Engine, onchain review (Solidity) | |
 | Chainlink CCIP | Sigma Prime | Jun 2026 | Cross-chain interoperability (Canton / Daml) | |
@@ -111,6 +114,7 @@ I’ve audited large, complex codebases, contributed to mission critical protoco
 - **Security Reviews:** For security reviews and security consulting, please reach out: 
 - X : [0xSorryNotSorry](https://x.com/0xSorryNotSorry) 
 - Telegram :  [s0rryn0tsorry](https://t.me/s0rryn0tsorry)
+- HackenProof : [sorryNotsorry](https://hackenproof.com/hackers/sorryNotsorry)
 
 <p>
   <a href="https://x.com/0xSorryNotSorry"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
